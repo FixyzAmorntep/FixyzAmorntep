@@ -9,7 +9,7 @@
 * **Others:** Docker, Git
 
 ### 📫 Connect with me
-* **LinkedIn:** www.linkedin.com/in/amorntep-juntamit-7619a2381
+* **LinkedIn:** linkedin.com/in/amt-jtm
 
 <!---
 FIXz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
