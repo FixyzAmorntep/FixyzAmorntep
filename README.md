@@ -3,7 +3,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-* **Languages:** Python, HTML/JavaScript, SQL
+* **Languages:** Python, HTML/JavaScript, SQL, C, C++, Java, Go Lang
 * **Security Tools:** Nmap, Wireshark
 * **Operating Systems:** Linux (Kali, Ubuntu), Windows
 * **Others:** Docker, Git
